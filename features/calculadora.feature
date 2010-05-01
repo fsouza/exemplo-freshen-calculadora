@@ -1,3 +1,4 @@
+Usar definições de passos de: 'steps/calculadora_steps'
 Funcionalidade: Adição
   Para evitar erros bobos
   Como um péssimo matemático
